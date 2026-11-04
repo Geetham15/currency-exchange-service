@@ -34,5 +34,5 @@ public class CurrencyExchangeController {
 	//To run two instances-> go to Run Configurations Name as CurrencyExchangeServiceApplication8000
 	//Go to JavaApplication-> Right click on application and Duplicate. Name it as CurrencyExchangeServiceApplication8001
 	// Go to Argument tab -> Under VM Arguments section-> -Dserver.port=8001 and Run.
-	// the second instances will run with the port number 8001
+	// the second instances will run with the port number 8001	
 }
